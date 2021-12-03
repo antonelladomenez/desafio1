@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(233, 200, 205);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+  p, li {
+  font-size: 15px;
+  
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+h3 {
+    font-size: 20px;
+}
+h1, h3, p, li{
+    color: rgb(94, 9, 61);
+}
